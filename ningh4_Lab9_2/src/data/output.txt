@@ -1,0 +1,60 @@
+Entering testAdd...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testRemove...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testUnion...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testIntersection...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testDifference...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testProduct...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testIsEqual...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testIsSubset...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testGetCount...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.
+Entering testToString...
+Test case 1 passed.
+Test case 2 passed.
+Test case 3 passed.
+Test case 4 passed.
+Test case 5 passed.

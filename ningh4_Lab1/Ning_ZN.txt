@@ -1,0 +1,7 @@
+Zoe Ning
+400183343
+Assuptions:
+	About the UseArgument class in Task 13, I assume we need to output one line only after one execution, 
+	so I decide to change the argument every time before executing. The first one is Alice, second one is Bob, 
+	the third one is Zoe (myname). If we are supposed to print three lines one time, a for loop can be added, 
+	and add three arguments together.

@@ -1,0 +1,51 @@
+To compute fibonacci(8), fibonacci(1) is being computed 21 times.
+
+fibonacci(8)
+ fibonacci(7)
+  fibonacci(6)
+   fibonacci(5)
+    fibonacci(4)
+     fibonacci(3)
+      fibonacci(2)
+       fibonacci(1) --> 1 time
+         return 1
+       fibonacci(0)
+         return 0
+       return 1
+      fibonacci(1) --> 2 times
+        return 1 
+      return 2
+      fibonacci(2)
+       fibonacci(1) --> 3 times
+         return 1
+       fibonacci(0)
+         return 0
+       return 1
+      return 3
+     fibonacci(3)
+      fibonacci(2)
+       fibonacci(1) --> 4 times
+         return 1 
+       fibonacci(0)
+         return 0
+       return 1
+      fibonacci(1) --> 5 times
+        return 1
+      return 2
+     return 5
+    fibonacci(4)
+     fibonacci(3)
+      fibonacci(2)
+       fibonacci(1) --> 6 times
+         return 1
+       fibonacci(0)
+         return 0
+       return 1
+      fibonacci(1) --> 7 times
+      return 1
+      ......
+      
+      
+Therefore, how many one the result has, how many times fibonacci(1) is computed.
+21 contains 21 ones, so fibonacci(1) is computed 21 times.
+           

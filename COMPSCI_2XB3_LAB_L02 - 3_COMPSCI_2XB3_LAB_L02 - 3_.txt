@@ -1,0 +1,174 @@
+Dear  COMPSCI_2XB3_LAB_L02 - 3,
+
+This file consists of two parts: the marking guideline followed by your submission mark breakdown.
+
+*************  MARKING SCHEME GUIDELINE ********************
+
+2XB3_2020 Final Project Report + Implementation - Marking Scheme 
+
+NOTE: The grades provided here are the overall team grade. The individual grade for the team project might be different depending on the contribution of each member to the team project reports, implementation and presentation.
+  
+====================================================================
+The score for all items is 0-5. 0 lack of existence of the item, 1 poor (failed to address the purposes described in the item), 2 basic (limited coverage of the item, the way that the item has been covered is inconsistent and sometimes incorrect), 3 satisfactory (limited knowledge of the item with major inconsistencies), 4 good (complete knowledge of the item with minor inconsistencies), 5 excellent (complete knowledge of the item without any inconsistency and beyond the expectation)
+
+
+=========== Project Completeness (weight 100%)
+PC
+(0-5)
+The project will be first checked if it generally meets all the requirements described in the project description document in terms of (1) SUFFICIENT USE OF OPEN DATASETS, (2) ADDRESSING A REAL NEED, (3) COVERAGE OF ALGORITHMIC CONTENTS
+(scores: 0-5)
+The entire project grade proportionately change given the grade for this item. 
+
+==========  Mark breakdown 
+
+=========== Use of Git and the quality of Project Logs (10%)
+LOG1 (5%)
+(0-5)
+Quality of the meeting minutes and commenting the changes on Git, 
+the minutes capture depth of the team project implementations: what happened, what was decided,
+what was implemented, etc.  
+
+LOG2 (5%)
+(0-5)
+Quantity of the updates and meetings 
+the minutes and the commits capture breadth of the team project 
+
+
+============ Requirements Specification Document (15%)
+
+
+SRS1 - The domain, brief description, are questions answered properly?
+(0-5) (13%)
+SRS Content Quality:
+SRS defines the external behaviour of the system and should comprise the following items:
+
+1. The domain. Brief description of the application domain and of the goals you should fulfil by developing an implementation. This includes a precise documentation of the domain knowledge that is relevant to derive specifications. who are the stakeholders and what are their goals and expectations? what are the main entities that characterize the domain? What are their main relationships? How are they affected by the system we will develop?
+
+2. Functional Requirements. These describe what the product does by using informal, semi-formal, or formal notations or a suitable mixture of them (you may include use case document and a UML use case diagram and/or a class diagram).
+
+3. Non-Functional Requirements. These may be classified into the following categories: reliability (Scalability, availability, integrity, security, safety, etc.), accuracy of results, performance, human-computer interface issues, operating constraints, physical constraints, portability issues, and others. (scalability must be listed as one of the NFRs for all projects as all of them are dealing with datasets with growing sizes. If they missed this NFR, they lose 0.5 score for this item 
+
+4. Requirements on the development and maintenance process. These include quality control procedures (in particular, system test procedures), priorities of the required functions, likely changes to the system maintenance procedures, and other requirements.
+
+
+SRS2
+(0-5) (2%)
+SRS document format and style
+
+
+=========== System Design Specification Document (25%)
+SDS1 � Common section (0-5) (5%)
+the common section per instruction is complete. 
+
+SDS2 � Class diagram and description 
+(0-5) (6%)
+- a description of the classes/modules you have decided to use in your application, and your explanation of why you have decomposed the application into those classes; You should include a UML class diagram showing a static representation of your application classes and relationship between classes;
+- for each class, a description of the interface (public entities), and make ?sure that there is a description of the semantics (behaviour) of each public method in the class, as well as a description of the syntax;
+
+
+
+SDS3  - Modular structure and uses
+(0-5) (5%)
+� - a description or a table to trace back to requirements for each class interface; 
+� a view of the application modules and which module uses other modules. Considering modularity should be observable in your DSD and your implementation.
+
+
+SDS4 � 
+State diagrams
+(0-5) (6%)
+
+for each class, a description of the implementation (private entities), including class variables - include enough detail to show how the class variables are maintained by the methods in the class; you should include two UML state machine diagrams for two most interesting classes in your implementation; 
+
+
+
+SDS5 (0-5) (3%)
+SRS document format and style
+- including readability, typos, different headers with different fonts, etc.
+
+========= Implementation (50% + 5% bonus)
+Imp1
+(0-5) (3%)
+Execution and compilation
+the application compiles and runs and generate the results. 
+The students should include a deployment document.
+
+
+Imp2
+(0-5) (15%)
+Correctness (verification)
+- Does the application address what described in the requirements document 
+
+
+Imp3 (8%)
+(0-5)
+Correctness (validation)
+- Does the application address what described in the project goals and scope. 
+
+
+Imp4
+(0-5) (10%)
+Implementation quality (Modularity and other object oriented qualities (e.g., encapsulation, immutability, exception handling)
+
+Imp5
+(0-5) (5%)
+Novelty/creativity
+- judge based on evidence of  using algorithmic content 
+ 
+
+Imp6 
+(0-5) (6%)
+Consistency of coding style and Documentation 
+- JavaDoc (or other standards are used for quality documentation of the code)  
+- Well-formatted Input and output (either UI or txt files)
+- Readability of the code (right indention) and presence of sufficient and meaningful comments in the code
+- Code organization
+
+Imp 7
+(0-5) (3%)
+Excellence in implementation - if the group implementation goes beyond the expectations mentioned above in different dimensions (e.g., exceptional work to use algorithms not being taught in the course, (e.g., machine learning and predictive models), exceptional design of UI, exceptional documentation, etc.)   
+
+Imp 8
+(0-5)
+Bonus mark (2%) 
+SDLC Methodology
+If the group students used Scrum methodology to develop the project. It is not enough just to name using the Scrum methodology but a number of Sprints and backlog feature and Sprint Meetings reports are present.
+
+==========================================================
+
+
+*********************************
+
+*************  SUBMISSION MARK BREAKDOWN ********************
+
+The following are the marks associated with your submission.
+
+ The displayed points (except for the total) are the points you earned for each item which is between 0 to Maximum point for the corresponding item. The mark is then computed based on the weight of the corresponding item in the marking scheme. For example if the weight for an item  is 10 and your point for the item is 3 out 6 , it means that you have received 50% of the mark for that item which is 5.
+
+ Student ID: COMPSCI_2XB3_LAB_L02 - 3
+
+Final Project (0-105): 91.8
+PC: 5
+LOG1: 4
+LOG2: 5
+SRS1: 4
+SRS2: 4
+SDS1: 5
+SDS2: 5
+SDS3: 4
+SDS4: 5
+SDS5: 5
+IMP1: 5
+IMP2: 5
+IMP3: 5
+IMP4: 4
+IMP5: 5
+IMP6: 5
+IMP7: 3
+IMP8: 0
+Final Project Comments: 1. Should include module/component diagram in design doc  2. code should be better organized- like making more sub-packages  3. bonus for demo
+ :  
+
+
+*********************************
+
+

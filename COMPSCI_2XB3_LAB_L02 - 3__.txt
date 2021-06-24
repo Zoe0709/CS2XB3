@@ -1,0 +1,108 @@
+Dear  ,
+
+This file consists of two parts: the marking guideline followed by your submission mark breakdown.
+
+*************  MARKING SCHEME GUIDELINE ********************
+
+Marking Scheme for 2XB3 Project Proposal
+Winter 2020
+Maximum Points: 100
+
+************************************************************************
+                       PROJECT PROPOSAL DOCUMENT
+************************************************************************
+
+The scale for evaluation of all items are 0-5:
+
+	0 = missing			lack of existence of the item
+	1 = poor 			failed to address the purposes described in the item
+	2 = basic 			limited coverage of the item, the way that the item has been covered is inconsistent and is incorrect
+	3 = satisfactory 	limited knowledge of the item with major inconsistencies
+	4 = good 			complete knowledge of the item with minor inconsistencies
+	5 = excellent  		complete knowledge of the item without any inconsistency
+
+
+PP1: Project Title (weight 2/100) 
+- The project title is clear, meaningful and concise 
+
+PP2: Abstract (Summary) (weight 7/100)
+- The abstract concisely describes the problem, the approach (algorithmic challenge) and the solution (what will be implemented) 
+
+PP3: Objectives (Score:0-5) (weight 8/100)
+- Does the student describe in one or two sentences summarize the objective of the project, i.e. what exactly the project will accomplish. The objective should be very specific, clear and measurable. i.e. not general statements about the project. 
+
+PP4: Motivation (Score:0-5) (weight 10/100)
+Are the following questions are answered clearly with evidence of research to support the student’s answers to the questions?
+- What is the problem that motivates you to build this product?
+- Why is this problem important to be addressed?  
+- Who are the users of the product?
+- What are the expected outcome and the utility of the product?
+
+pp5: Prior Work (Make sure proper citations to other work)(Score:0-5) (weight 10/100)
+ - A summary and background study of similar products (with references) with the description of any similarities and/or differences. 
+- How the proposed solution is expected to improve the existing products?
+- If the product has no precedence, the novelty and its uniqueness should be described here 
+
+
+PP6-1: Input/output and proposed solutions: (Score:0-5) (weight 10/100)
+- Include the name and URLs of the dataset that you will be using (from Canada or US government open datasets or other sources). Add one sentence for each dataset describing why that dataset is needed.
+
+PP6-2: Input/output and proposed solutions: (Score:0-5) (weight 10/100)
+- Describe the outputs that your product will be generating in terms of the data and not the interface (e.g., Distance between point A and B, number of cured patients, etc.). For each output add one sentence description the output.
+
+PP6-3: Input/output and proposed solutions: (Score:0-5) (weight 10/100)
+- Briefly describe the proposed solution in terms of how the input will be used to generate the output. You can describe this part as a usage scenario. You may add a figure if it helps to describe how your proposed solution is working. (max 500 words)
+
+PP7:  Algorithmic challenges (Score:0-5)(weight 8/100)
+- Briefly describe which algorithms (sorting, searching, graphs, strings, etc.) you think you will be implementing to solve this problem and what are the challenges that you should be aware of. (max 200 words)
+
+PP8: Project Timetable (Score:0-5)(weight 5/100)
+- Include a table that describes at most 7 milestones and their deliverable for your project. Each milestone should have a specific date (e.g., Week 3).
+
+
+PP9-1: References (content) (Score:0-5)(weight 7/100)
+- Inclusion and relevancy of five references from credible sources (i.e., peer reviewed articles and credible online sources). includes academic references (5), includes academic references but not very relevant (4) Just online references (4), Just online references w/o relevancy (3)…, not references at all (0) 
+ 
+PP9-2: References (Style) (Score:0-5)(weight 3/100) 
+consistent and clean reference style for the followed styles: IEEE, APA, or any other known styles 
+
+ST1: Proposal Style (Score:0-5)(weight 10/100)
+- All instructions are followed well, the template format is consistently followed, no typos, use of academic language (not colloquial language), the report does not exceed the page limits.
+
+*********************************
+
+*************  SUBMISSION MARK BREAKDOWN ********************
+
+The following are the marks associated with your submission.
+
+ The displayed points (except for the total) are the points you earned for each item which is between 0 to Maximum point for the corresponding item. The mark is then computed based on the weight of the corresponding item in the marking scheme. For example if the weight for an item  is 10 and your point for the item is 3 out 6 , it means that you have received 50% of the mark for that item which is 5.
+
+ Student ID: 
+
+Project Proposal Grade: 96
+PP1: 5
+PP2: 5
+PP3: 5
+PP4: 5
+PP5: 5
+PP6-1: 4
+PP6-2: 5
+PP6-3: 4
+PP7: 5
+PP8: 5
+PP9-1: 5
+PP9-2: 5
+St1: 5
+Comments  for proposals: Better to explain the input criteria. Also more than 10 datasets are stated in the proposal - better to explain how to store the data.
+Presentation Grade: 19
+Presentation Content (0-5): 5
+Presentation Logical Flow (0-5) : 4.5
+Presentation Slide quality (0-5): 4.5
+Presentation Communication quality (0-5): 5
+Presentation Comments: good introduction-objective-motiavtion-related work- spend many time for related work- using quick sort
+ :  
+
+
+*********************************
+
+
